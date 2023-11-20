@@ -1,3 +1,3 @@
 import random
-x = random.random()
+x = random.randint()
 print(x)
